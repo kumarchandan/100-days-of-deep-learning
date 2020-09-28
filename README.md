@@ -1,3 +1,2 @@
-# Tensorflow projects
+# 100 Days of Deep Learning
 
-1) Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
