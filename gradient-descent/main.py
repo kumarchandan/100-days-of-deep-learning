@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from grad_descent import train
+from grad_descent import train, predict
 
 df = pd.read_csv('https://raw.githubusercontent.com/instituteofai/ML-101/master/Datasets/Advertising_data.csv', index_col=0)
 
