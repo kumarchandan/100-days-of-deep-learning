@@ -6,7 +6,7 @@ def update_w_and_b(spendings, sales, w, b, alpha):
     # df/dw = -2x_i (y_i - (wx_i + b))
     # df/db = -2 (y_i - (wx_i + b))
 
-    # Collect gradients (via partial derivatives) on entire dataset
+    # Collect gradients (via partial derivatives) on entire dataset to find the best values for parameters
     for i in range(N):
         dl_dw += -2 * spendings[i] * (sales[i] - (w * spendings[i] + b))
         dl_db += -2 * (sales[i] - (w * spendings[i] + b))
@@ -37,3 +37,6 @@ def train(spendings, sales, w, b, alpha, epochs):
         if e // 50 == 0:
             print('epoch: ', e, ' loss: ', avg_loss(spendings, sales, w, b), ' w and b: ', w, b)
     return w, b
+
+def predict(x, w, b):
+    return w * x + b
