@@ -1,4 +1,7 @@
-
+'''
+We start by defining m and b with random values (0.0 here), then we have a for loop to iterate
+through derived functions and each step is controlled by a learning rate (alpha).
+'''
 def update_w_and_b(spendings, sales, w, b, alpha):
     dl_dw = 0.0
     dl_db = 0.0
