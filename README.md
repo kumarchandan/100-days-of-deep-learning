@@ -1,15 +1,8 @@
-# 100 Days of Deep Learning
-
-## Day 1
-ANN-Perceptron
-
-## Day 2
-Gradient-Descent
-
-## Day 3
+# :zap: 100 Days of Deep Learning
 
 
-## Day 4
+## Journey
 
-
-## Day 5
+| Day | Description | Links |
+| --- | ----------- | ----- |
+| 1.  | History of Artificial Neural Network |
