@@ -5,6 +5,6 @@
 
 | Day | Description | Links |
 | --- | ----------- | ----- |
-| 1. | Artificial Neural Network | |
-| 2. | Perceptron: A simplest ANN architecture | |
+| 1. | Introduction to Artificial Neural Network | **[Link](day-1)** |
+| 2. | Backpropagation Algorithm | |
 | 3. | Gradient Descent | |
