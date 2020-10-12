@@ -3,7 +3,7 @@
 
 ## Journey
 
-| Day | Description | Links |
+| Day | Description | Content |
 | --- | ----------- | ----- |
 | 1. | Introduction to Artificial Neural Network | [Link](day-1) |
 | 2. | Backpropagation Algorithm | [Link](day-2) |
