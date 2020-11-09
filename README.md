@@ -17,3 +17,5 @@
 | 10. | Callbacks (TensorBoard) - Part 2 | [Link](day-10) |
 | 11. | Create a Deno Module (for Linear Regression) | [Link](day-11) |
 | 12. | Work on Deno Module (Neural Network) | [Link](day-12) |
+| 13. | ------------------- | -------------- |
+| 14. | Fine-tuning hyperparameters and using gridsearch | [Link](day-14) |
